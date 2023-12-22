@@ -1,5 +1,11 @@
-# format command send
+# RUN
+```python
+python main.py
+1
+4
+```
 
+# format command send
 ```json
 {
     "Command": {Command},
